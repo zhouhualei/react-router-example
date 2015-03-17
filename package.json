@@ -1,0 +1,19 @@
+{
+  "name": "react-router-example",
+  "version": "0.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "webpack": "~1.7.3",
+    "jsx-loader": "~0.12.2",
+    "react": "~0.12.2",
+    "react-router": "~0.12.4",
+    "babel-core": "~4.7.12",
+    "babel-loader": "~4.2.0"
+  }
+}
